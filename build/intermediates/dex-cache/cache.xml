@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-5d7b0548ecb201bfc5166a666ad7cec82b5a7c6a.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-dedd2bb6fb4734900f3c10fcdc7e0d29dc52d8be.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-33ad66992d5f4a78ee226e0d465087b247d7670f.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-9f50bdc18090de0ac3d6a37967b15de3c5b2e392.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-8e0d509bd43eae06917f44f3495ace8404e723af.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-176fd9c68f7fa4d337adc34dd4c197390dd850ca.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-276416515f2b2ea33c62476b6e5888a59c53a0ff.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-46db3eb57bf21fd6356a1de38ecff4237fd65aec.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-cf8e8605e7485f12ace617c5058c180c136b0c3e.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-8bcec40c54ca2b826832b90ca92e91e1805ad118.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-1e003f7beafd4637cf91feb7d36351927442da7b.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-9f4426afe58ce324992a8b75fa25a6deb58925e4.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-d1d06a9d11ca80c96d007a4e3b069ef6c0ecb4ff.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-f211bd5290efea6892874801e2b9719595dc30a8.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-ce5e4c967368ebb120cb9a638ad9d8884e8faabc.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-1af9041303d590120269dc6a7b3474d7d92866ca.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-bd7a449432375fbc44d8bad98f1026ebed83871d.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-d7dc8458c09cc4914c83b852a226260bb6d44956.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-9acdf1ac19d8d3ed066aff468347b172644f55ac.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-a43dc6e5611d10d83bfd7f462a81ca086e450b41.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-67d8892bd4b73f82d3848e21a8f2e62edab5e3bc.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-1342a47b8c4b64422e51a0550ae008986818ce9e.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-3139323750baeee9032e9d471225377c0d1afb70.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-4569e9f0bd78aa4deca3f44630856f8a77d5132b.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-068c76d4c425f7ef783835b8d0816ee83f30342d.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-cf70276c23e03f20e91cc243f6a667a9aa568361.jar" />
+    </item>
+    <item
+        jar="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/kmiki/AndroidStudioProjects/AndroidGTM/app/build/intermediates/pre-dexed/debug/classes-b9b2ff7e03e789fdd6f94440200fb91b0ee39e7a.jar" />
+    </item>
+
+</items>
